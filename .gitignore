@@ -1,0 +1,4 @@
+node_modules
+
+# production
+# keeping the Dist folder so I can publish on github pages

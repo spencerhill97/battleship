@@ -54,7 +54,7 @@ npm run tests
     
 ## Screenshots
 
-<img scr="https://github.com/spencerhill97/battleship/assets/113248092/59402c9c-92c9-4aac-a1af-9a74b984181d" />
+<img src="https://github.com/spencerhill97/battleship/assets/113248092/2db6c0f1-f2e0-4281-8984-3dc938e7e9d0" />
 
 
 ## Acknowledgements
